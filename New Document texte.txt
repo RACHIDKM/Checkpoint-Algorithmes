@@ -1,0 +1,23 @@
+1 - Déclaration des variables :
+
+
+2 - Définition de la fonction algo :
+
+
+3 - Découpage du texte en mots :
+
+
+4 - Découpage du texte en caractères :
+
+
+6 - Parcours de chaque caractère pour compter les voyelles :
+
+
+7 - Comptage du nombre de mots :
+
+
+8 - Affichage des résultats :
+
+
+9 - Appel de la fonction avec le texte défini au début :
+
